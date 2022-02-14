@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b95819d.chunk.css",
-    "main.js": "/static/js/main.f3c52610.chunk.js",
-    "main.js.map": "/static/js/main.f3c52610.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.715c3393.js",
-    "runtime-main.js.map": "/static/js/runtime-main.715c3393.js.map",
-    "static/css/2.3c8ef472.chunk.css": "/static/css/2.3c8ef472.chunk.css",
-    "static/js/2.1502ff88.chunk.js": "/static/js/2.1502ff88.chunk.js",
-    "static/js/2.1502ff88.chunk.js.map": "/static/js/2.1502ff88.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.3c8ef472.chunk.css.map": "/static/css/2.3c8ef472.chunk.css.map",
-    "static/css/main.0b95819d.chunk.css.map": "/static/css/main.0b95819d.chunk.css.map",
-    "static/js/2.1502ff88.chunk.js.LICENSE.txt": "/static/js/2.1502ff88.chunk.js.LICENSE.txt",
-    "static/js/main.f3c52610.chunk.js.LICENSE.txt": "/static/js/main.f3c52610.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg",
-    "static/media/paper-dashboard.scss?v=1.3.0": "/static/media/nucleo-icons.ec16bc4c.woff2"
+    "main.css": "/admin/dashboard/static/css/main.7f9223af.chunk.css",
+    "main.js": "/admin/dashboard/static/js/main.5cbeb28b.chunk.js",
+    "main.js.map": "/admin/dashboard/static/js/main.5cbeb28b.chunk.js.map",
+    "runtime-main.js": "/admin/dashboard/static/js/runtime-main.1126469a.js",
+    "runtime-main.js.map": "/admin/dashboard/static/js/runtime-main.1126469a.js.map",
+    "static/css/2.3c8ef472.chunk.css": "/admin/dashboard/static/css/2.3c8ef472.chunk.css",
+    "static/js/2.f4310c2d.chunk.js": "/admin/dashboard/static/js/2.f4310c2d.chunk.js",
+    "static/js/2.f4310c2d.chunk.js.map": "/admin/dashboard/static/js/2.f4310c2d.chunk.js.map",
+    "index.html": "/admin/dashboard/index.html",
+    "static/css/2.3c8ef472.chunk.css.map": "/admin/dashboard/static/css/2.3c8ef472.chunk.css.map",
+    "static/css/main.7f9223af.chunk.css.map": "/admin/dashboard/static/css/main.7f9223af.chunk.css.map",
+    "static/js/2.f4310c2d.chunk.js.LICENSE.txt": "/admin/dashboard/static/js/2.f4310c2d.chunk.js.LICENSE.txt",
+    "static/js/main.5cbeb28b.chunk.js.LICENSE.txt": "/admin/dashboard/static/js/main.5cbeb28b.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/admin/dashboard/static/media/logo.103b5fa1.svg",
+    "static/media/paper-dashboard.scss?v=1.3.0": "/admin/dashboard/static/media/nucleo-icons.ec16bc4c.woff2",
+    "static/media/penticostlogo.0758e747.jpg": "/admin/dashboard/static/media/penticostlogo.0758e747.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.715c3393.js",
+    "static/js/runtime-main.1126469a.js",
     "static/css/2.3c8ef472.chunk.css",
-    "static/js/2.1502ff88.chunk.js",
-    "static/css/main.0b95819d.chunk.css",
-    "static/js/main.f3c52610.chunk.js"
+    "static/js/2.f4310c2d.chunk.js",
+    "static/css/main.7f9223af.chunk.css",
+    "static/js/main.5cbeb28b.chunk.js"
   ]
 }
